@@ -125,6 +125,11 @@ text-decoration: none;
     .feature-details{
         margin-left: 96px;
     }
+    .feature-details p{
+        
+color:#6C6C6C;
+margin-bottom: 16px;
+    }
     .anchor-three{
 text-decoration: none;
 background: #E02C6D;
@@ -132,5 +137,24 @@ color: #FFFFFF;
 font-size: 16px;
 padding: 10px 24px;
 gap: 8px;
-
-    }
+ }
+ /* Footer Style */
+ footer{
+     background-color: midnightblue ;
+ }
+ .footer-part{
+     color: 
+     #FFFFFF;
+     text-align: center;
+     padding: 50px 0;
+ }
+ footer h3{
+     font-size: 24px;
+ }
+ footer p{
+     font-size: 14px;
+ }
+     footer i{
+        color: seashell;
+        margin-right: 16px;
+     }
